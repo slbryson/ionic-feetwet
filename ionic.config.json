@@ -1,5 +1,13 @@
 {
   "name": "feetwet",
   "app_id": "",
-  "type": "ionic1"
+  "type": "ionic1",
+  "gulpStartupTasks": [
+    "saas",
+    "watch"
+  ],
+  "integrations": {
+    "cordova": {}
+  },
+  "watchPatterns": []
 }
